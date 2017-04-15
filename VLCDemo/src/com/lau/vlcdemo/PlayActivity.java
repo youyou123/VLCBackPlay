@@ -283,7 +283,7 @@ public class PlayActivity extends Activity implements IVideoPlayer {
 
 		mEnableJumpButtons = pref.getBoolean("enable_jump_buttons", false);
 		mPlayPause = (ImageButton) findViewById(R.id.player_overlay_play);
-		// mPlayPause.setOnClickListener(mPlayPauseListener);
+		 mPlayPause.setOnClickListener(mPlayPauseListener);
 		mBackward = (ImageButton) findViewById(R.id.player_overlay_backward);
 		mBackward.setOnClickListener(mBackwardListener);
 		mForward = (ImageButton) findViewById(R.id.player_overlay_forward);
@@ -369,7 +369,7 @@ public class PlayActivity extends Activity implements IVideoPlayer {
 		System.out.println(url + ";;;;;;;;;;;;;;;;;;;;;;;;;;;;");
 	//http://192.168.42.1/EVENT/S_video/
 
-			mLibVLC.readMedia("http://192.168.1.254/DCIM/VIDEO/2017_0415_165305_001.MOV");
+			mLibVLC.readMedia("http://192.168.1.254/DCIM/VIDEO/2017_0415_191651_004A.MOV");
 		
 
 	}
@@ -1447,7 +1447,7 @@ public class PlayActivity extends Activity implements IVideoPlayer {
 			if (!mIsLocked) {
 				mOverlayHeader.setVisibility(View.VISIBLE);
 				mOverlayOption.setVisibility(View.VISIBLE);
-				// mPlayPause.setVisibility(View.VISIBLE);
+				 mPlayPause.setVisibility(View.VISIBLE);
 
 				dimStatusBar(false);
 			}

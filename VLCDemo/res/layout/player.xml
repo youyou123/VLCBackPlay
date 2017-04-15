@@ -11,16 +11,16 @@
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:fitsSystemWindows="false" >
 
         <FrameLayout
             android:id="@+id/player_surface_frameone"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="top"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
             android:layout_marginTop="30dp"
-            android:foregroundGravity="clip_horizontal|clip_vertical" >
+           >
 
             <SurfaceView
                 android:id="@+id/player_surfaceone"
@@ -38,7 +38,7 @@
             android:id="@+id/player_overlay_play"
             android:layout_width="50dip"
             android:layout_height="50dip"
-            android:layout_alignParentTop="true"
+            
             android:layout_centerInParent="true"
             android:layout_marginTop="100dp" />
 
@@ -154,6 +154,7 @@
                 android:layout_width="40dip"
                 android:layout_height="40dip"
                 android:layout_centerVertical="true"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="5dp"
                 android:layout_toRightOf="@+id/lock_overlay_button"
                 android:background="@drawable/ic_backward"
@@ -165,6 +166,8 @@
                 android:layout_height="35dp"
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
+                android:layout_marginTop="50dp"
+                android:layout_centerInParent="true"
                 android:background="@drawable/ic_pause"
                 android:visibility="gone" />
 
@@ -172,7 +175,7 @@
                 android:id="@+id/player_overlay_time"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerVertical="true"
+               android:layout_alignParentBottom="true"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="5dp"
                 android:layout_toRightOf="@+id/player_overlay_play"
@@ -185,7 +188,7 @@
                 android:id="@+id/player_overlay_seekbar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
+                android:layout_alignParentBottom="true"
                 android:layout_toLeftOf="@+id/player_overlay_length"
                 android:layout_toRightOf="@+id/player_overlay_time"
                 android:maxHeight="2dip"
@@ -199,7 +202,7 @@
                 android:id="@+id/player_overlay_length"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerVertical="true"
+                android:layout_alignParentBottom="true"
                 android:layout_marginLeft="5dp"
                 android:layout_toLeftOf="@+id/player_overlay_forward"
                 android:clickable="true"
