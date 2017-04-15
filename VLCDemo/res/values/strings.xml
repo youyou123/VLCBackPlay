@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main VLC Interface -->
+    <string name="app_name" translatable="false">VLC</string>
+    <string name="encountered_error_title">Play Error</string>
+    <string name="encountered_error_message">iTracker to play the media (recorder) encountered problems.\nPlease connect WiFi.</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+    <string name="unknown_genre">Unknown Genre</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="locked">Locked</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="volume">Volume</string>
+    <string name="brightness">Brightness</string>
+    <string name="track_audio">Audio track</string>
+    <string name="track_text">Subtitles track</string>
+    <string name="surface_best_fit">Best fit</string>
+    <string name="surface_fit_horizontal">Fit horizontal</string>
+    <string name="surface_fit_vertical">Fit vertical</string>
+    <string name="surface_fill">Fill</string>
+    <string name="surface_original">Center</string>
+    <string name="unseekable_stream">Unseekable stream</string>
+    <string name="title">Title</string>
+
+</resources>

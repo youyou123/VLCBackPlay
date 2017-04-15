@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar
+END
+wcslcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcslcat.c
+END
+wcsncat.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsncat.c
+END
+wmemchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wmemchr.c
+END
+wcsdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsdup.c
+END
+wcpcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcpcpy.c
+END
+wmemcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wmemcmp.c
+END
+wcsncasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsncasecmp.c
+END
+wcscoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcscoll.c
+END
+wcscpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcscpy.c
+END
+wcsnlen.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsnlen.c
+END
+wcsncmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsncmp.c
+END
+wcstok.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcstok.c
+END
+wcspbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcspbrk.c
+END
+wcsrchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsrchr.c
+END
+wcsspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsspn.c
+END
+wcscspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcscspn.c
+END
+wmemcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wmemcpy.c
+END
+wmemset.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wmemset.c
+END
+wcpncpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcpncpy.c
+END
+wcslcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcslcpy.c
+END
+wcscat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcscat.c
+END
+wcsstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsstr.c
+END
+wcsncpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsncpy.c
+END
+wcscasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcscasecmp.c
+END
+wcschr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcschr.c
+END
+wcsxfrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcsxfrm.c
+END
+wcslen.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcslen.c
+END
+wcscmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcscmp.c
+END
+wcswidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wcswidth.c
+END
+wmemmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/wchar/wmemmove.c
+END

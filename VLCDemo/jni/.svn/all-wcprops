@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni
+END
+pthread-condattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/pthread-condattr.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/Android.mk
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/utils.h
+END
+aout.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/aout.c
+END
+pthread-once.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/pthread-once.c
+END
+pthread-rwlocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/pthread-rwlocks.c
+END
+thumbnailer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/thumbnailer.c
+END
+libvlcjni-equalizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/libvlcjni-equalizer.c
+END
+egl-android-info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/egl-android-info.txt
+END
+libvlcjni.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/libvlcjni.c
+END
+aout.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/aout.h
+END
+libvlcjni-track.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/libvlcjni-track.c
+END
+pipe2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/pipe2.c
+END
+libvlcjni.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/libvlcjni.h
+END
+sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/sem.c
+END
+libvlcjni-medialist.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/libvlcjni-medialist.c
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/log.h
+END
+libvlcjni-util.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/libvlcjni-util.c
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/Application.mk
+END
+eventfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/eventfd.c
+END
+vout.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SUNPLUS/!svn/ver/564/Android_APP/iTracker/jni/vout.c
+END
